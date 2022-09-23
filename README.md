@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+#### Please checkout my everest app which is a simple employee management solution.
+#### Took simple concepts to build it in Java and React with functional componented
+#### My Goal is get this production ready with proper ci/cd and run on k8s.
 <!--
 **shkumar45/shkumar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

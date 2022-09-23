@@ -1,7 +1,20 @@
 ### Hi there 👋
-#### Please checkout my everest app which is a simple employee management solution.
-#### Took simple concepts to build it in Java and React with functional componented
-#### My Goal is get this production ready with proper ci/cd and run on k8s.
+Welcome to my github space. I am a geek with business background and always interested in solving real life problems.
+
+* My Current Work ✈️
+
+Please checkout my apps. 
+Currently I am working on everest, which is a simple employee management tool.
+Took simple concepts to build it in Java and Reactjs.
+My Goal is get this production ready with proper ci/cd and run on k8s.
+
+- My Interests ⤴️
+
+I am interested in collaborating 👬 with like mided coders who have similar background as mine
+who knows, one day we might be able to sell it ✊
+
+Thanks for visiting 😄.
+
 <!--
 **shkumar45/shkumar45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

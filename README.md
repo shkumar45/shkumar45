@@ -8,12 +8,13 @@ Currently I am working on everest, which is a simple employee management tool.
 Took simple concepts to build it in Java and Reactjs.
 
 Everest can do following
- - Employee and department microservices
+ - Employee and department microservices (in java spring-boot)
  - Resiliency using resiliency4j (circuit breaker, retries, fallback etc)
- - Service communication between the two microservice Employees and its deparment
- - Service Dicovery
+ - Service communication between the two microservice Employees and its deparment.
+ - Service Dicovery using eureka
  - Distributed tracing using Zipkin and Sleuth (jaeger can be used to monitoring as well)
  - Cloud config server using github
+ - Front end app for consuming these services (in reactjs)
  - Run the entire setup in k8s.
 
 

@@ -9,7 +9,7 @@ Took simple concepts to build it in Java and Reactjs.
 
 Everest can do following
  - Employee and department microservices
- - Resiliency using resiliency4j
+ - Resiliency using resiliency4j (circuit breaker, retries, fallback etc)
  - Service communication between the two microservice Employees and its deparment
  - Service Dicovery
  - Distributed tracing using Zipkin and Sleuth (jaeger can be used to monitoring as well)

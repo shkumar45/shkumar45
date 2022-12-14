@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my github space. I am a geek with business background and always interested in solving real life problems.
 
-* My Current Work ✈️
+✈️ My Current Work ✈️
 
 Please checkout my apps. 
 Currently I am working on everest, which is a simple employee management tool.

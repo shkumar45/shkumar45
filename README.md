@@ -4,7 +4,10 @@ Welcome to my github space. I am a geek with business background and always inte
 ✈️ My Current Work ✈️
 
 Please checkout my apps. 
-Currently I am working on everest, which is a simple employee management tool.
+Currently I am developing an end to end agentic workflow at slow pace. Hope to soon ship it.
+
+
+I have earlier worked on everest, which is a simple employee management tool.
 Took simple concepts to build it in Java and Reactjs.
 
 Everest can do following

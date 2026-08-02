@@ -3,9 +3,7 @@ Welcome to my github space. I am a geek with business background and always inte
 
 ✈️ My Current Work ✈️
 
-Currently I am developing an end to end agentic workflow and an enterprise data platform. Hope to soon ship it.
-
-Feel free to checkout my light weight ai-travel-agent repo built using langchain/langgraph and open-api. Will port it soon on aws.
+Feel free to checkout my light weight [ai-travel-agent](https://github.com/shkumar45/ai-travel-agent) repo built using langchain/langgraph and open-api. Will port it soon on aws.
 
 
 I have earlier worked on everest, which is a simple employee management tool.

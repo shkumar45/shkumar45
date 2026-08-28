@@ -6,7 +6,7 @@ Welcome to my github space. I am a geek with business background and always inte
 Feel free to checkout my light weight [ai-travel-agent](https://github.com/shkumar45/ai-travel-agent) repo built using langchain/langgraph/langfuse and openai. Will port it soon on aws.
 
 
-I have earlier worked on everest, which is a simple employee management tool.
+I have earlier worked on [everest](https://github.com/shkumar45?tab=repositories&q=everest), which is a simple employee management system.
 Took simple concepts to build it in Java and Reactjs.
 
 Everest can do following

@@ -3,7 +3,7 @@ Welcome to my github space. I am a geek with business background and always inte
 
 ✈️ My Current Work ✈️
 
-Feel free to checkout my light weight [ai-travel-agent](https://github.com/shkumar45/ai-travel-agent) repo built using langchain/langgraph/languse and openai. Will port it soon on aws.
+Feel free to checkout my light weight [ai-travel-agent](https://github.com/shkumar45/ai-travel-agent) repo built using langchain/langgraph/langfuse and openai. Will port it soon on aws.
 
 
 I have earlier worked on everest, which is a simple employee management tool.

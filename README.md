@@ -3,7 +3,9 @@ Welcome to my github space. I am a geek with business background and always inte
 
 ✈️ My Current Work ✈️
 
-Feel free to checkout my light weight [ai-travel-agent](https://github.com/shkumar45/ai-travel-agent) repo built using langchain/langgraph/langfuse and openai. Will port it soon on aws.
+Feel free to checkout my light weight repos built using langchain/langgraph/langsmith and openai which i plan to port on AWS.
+1. [langgraph-chatbot agent](https://langgraph-chatbot-7non.onrender.com/) - [source-code](https://github.com/shkumar45/langgraph-chatbot)
+2. [ai-travel-agent](https://github.com/shkumar45/ai-travel-agent) 
 
 
 I have earlier worked on [everest](https://github.com/shkumar45?tab=repositories&q=everest), which is a simple employee management system.
